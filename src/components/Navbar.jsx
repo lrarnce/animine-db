@@ -5,10 +5,10 @@ function Navbar(){
     return(
         <div className="navbar">
            <div className="navbar-brand">
-                <a href="/">Animine.db</a>
+           <Link to="/">Home</Link>
            </div>
            <div className="navbar-links">
-           <a href="/">Home</a>
+           <Link to="/">Home</Link>
            <Link to="/favorites">Favorites</Link>
            </div>
         </div>
