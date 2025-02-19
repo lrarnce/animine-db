@@ -5,7 +5,7 @@ function Navbar(){
     return(
         <div className="navbar">
            <div className="navbar-brand">
-           <Link to="/">Home</Link>
+           <Link to="/">Animine DB</Link>
            </div>
            <div className="navbar-links">
            <Link to="/">Home</Link>
