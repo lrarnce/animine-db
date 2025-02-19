@@ -10,8 +10,11 @@
   margin-bottom: 2rem;
   text-align: center;
   font-size: 2.5rem;
-  color: #ffffff;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  /* color: #ffffff; */
+  color: #0d0635;
+  /* text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3); */
+  font-weight: bold;
+  
 }
 
 .favorites-empty {
